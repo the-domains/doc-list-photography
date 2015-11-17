@@ -1,0 +1,23 @@
+name: Doc List Photography
+favicon: null
+layout_spectrum: 0.9144127233885229
+typography_spectrum: 0.2364579369314015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9335274102631956
+  lightness: 0.9924919947516173
+  saturation: 0.28340115514583886
+  rhythmicContrast: 0.5068558091297746
+purpose: []
